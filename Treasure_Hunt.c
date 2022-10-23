@@ -95,7 +95,7 @@ void dispInfo(){
     yellow();
     printf("T ");
     reset();
-    printf("- Tresure, ");
+    printf("- Treasure, ");
     red();
     printf("* ");
     reset();

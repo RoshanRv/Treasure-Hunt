@@ -2,7 +2,7 @@
 
 Help Adventurer To Hunt The Treasure.
 
-![Treasure-Hunt](https://user-images.githubusercontent.com/75238302/197393193-207a97c3-0e51-4556-ba4f-445ae0df5323.png)
+![Treasure-Hunt](https://user-images.githubusercontent.com/75238302/197393583-d1e320a9-a512-4ae6-9d52-88ff25c360e4.png)
 
 ## General Info
 
